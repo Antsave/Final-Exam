@@ -24,8 +24,11 @@ All baby name files (names1990.csv to names2017.csv) should be placed inside a "
 # Menu Options:
 --------------
 1 - Search single name by year
+
 2 - Search single name across all years
+
 3 - Search multiple names across all years
+
 4 - Exit
 # Author:
 --------
