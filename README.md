@@ -1,12 +1,12 @@
-BABY NAME ANALYZER - FINAL EXAM PROJECT
+# BABY NAME ANALYZER - FINAL EXAM PROJECT
 
-Description:
+# Description:
 -------------
 This Java program analyzes U.S. baby name data from the years 1990 through 2017.
 It allows the user to look up baby names by year, across all years, or multiple names across all years.
 The project extends the midterm version by implementing all search logic using recursion.
 
-Features:
+# Features:
 ----------
 1. Load baby name data from files (1990–2017)
 2. Search for a single name in a specific year
@@ -17,17 +17,17 @@ Features:
 7. User input through a menu-driven console
 8. Handles file errors and input validation
 
-Folder Setup:
+# Folder Setup:
 --------------
 All baby name files (names1990.csv to names2017.csv) should be placed inside a "data" folder.
 
-Menu Options:
+# Menu Options:
 --------------
 1 - Search single name by year
 2 - Search single name across all years
 3 - Search multiple names across all years
 4 - Exit
-Author:
+# Author:
 --------
 Anthony Savage
 Final Exam - JavaApplications
